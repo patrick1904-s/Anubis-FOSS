@@ -2,19 +2,19 @@
 
 - [X] Basic Understanding of Web Security
   - [X] Learn common web threats (bots, scrapers, DDoS)
-  - [ ] Understand traditional firewalls and WAF (Web Application Firewall) concepts
+  - [X] Understand traditional firewalls and WAF (Web Application Firewall) concepts
 
-- [ ] Introduction to Anubis
-  - [ ] Purpose and goals of Anubis
-  - [ ] Key features and use cases
-  - [ ] Open source community and ecosystem
+- [X] Introduction to Anubis
+  - [X] Purpose and goals of Anubis
+  - [X] Key features and use cases
+  - [X] Open source community and ecosystem
 
-- [ ] Technical Foundations
-  - [ ] How reverse proxies work
-  - [ ] Proof-of-Work (PoW) concept and its role in security
-  - [ ] JavaScript challenges in client validation
+- [X] Technical Foundations
+  - [X] How reverse proxies work
+  - [X] Proof-of-Work (PoW) concept and its role in security
+  - [X] JavaScript challenges in client validation
 
-- [ ] Anubis Architecture & Workflow
+- [X] Anubis Architecture & Workflow
   - [ ] Components of Anubis (proxy, challenge engine, policy manager)
   - [ ] Traffic flow and decision points
   - [ ] Configuration and customization options
