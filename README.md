@@ -9,4 +9,8 @@ Disclamer (try at your Own risk)
 2 Why anubis or What is Anubis 
 3 There is no Captcha Hell (meme)
 4 How It works 
-5 Organization who uses anubis
+5 Organization who uses Anubis
+
+---
+
+setup for the anubis Firewall in the local k3
